@@ -1,6 +1,8 @@
 # login
 
-A new Flutter project.
+A new Flutter project 
+  - Flutter version 3.7.5.
+  - Dart 2.19.2
 
 ## Getting Started
 
